@@ -1,2 +1,3 @@
-# TI_MEI_Lauflicht
-Lauflicht in C
+### Technische Informatik - Lauflicht
+Mikrocontroller (C)
+
